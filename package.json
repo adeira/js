@@ -1,0 +1,11 @@
+{
+  "name": "@kiwicom/js",
+  "description": "Useful JS functions used at Kiwi.com",
+  "homepage": "https://github.com/kiwicom/js",
+  "license": "MIT",
+  "private": false,
+  "version": "0.17.0",
+  "main": "src/index",
+  "sideEffects": false,
+  "dependencies": {}
+}
